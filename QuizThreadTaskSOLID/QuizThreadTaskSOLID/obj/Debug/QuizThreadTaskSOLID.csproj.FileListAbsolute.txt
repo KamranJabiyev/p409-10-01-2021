@@ -1,0 +1,6 @@
+E:\P409\C#\QuizThreadTaskSOLID\QuizThreadTaskSOLID\bin\Debug\QuizThreadTaskSOLID.exe.config
+E:\P409\C#\QuizThreadTaskSOLID\QuizThreadTaskSOLID\bin\Debug\QuizThreadTaskSOLID.exe
+E:\P409\C#\QuizThreadTaskSOLID\QuizThreadTaskSOLID\bin\Debug\QuizThreadTaskSOLID.pdb
+E:\P409\C#\QuizThreadTaskSOLID\QuizThreadTaskSOLID\obj\Debug\QuizThreadTaskSOLID.csprojAssemblyReference.cache
+E:\P409\C#\QuizThreadTaskSOLID\QuizThreadTaskSOLID\obj\Debug\QuizThreadTaskSOLID.exe
+E:\P409\C#\QuizThreadTaskSOLID\QuizThreadTaskSOLID\obj\Debug\QuizThreadTaskSOLID.pdb
